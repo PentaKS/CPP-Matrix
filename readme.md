@@ -14,5 +14,5 @@ it also has some passive features like:
 to run the code use g++ matrix.cpp -o matric.exe
 
 # Image
-<img width="877" height="858" alt="image" src="https://github.com/user-attachments/assets/9afce70d-7f86-4132-b1f6-29ebe18532f9" />
+<img width="877/3" height="858/3" alt="image" src="https://github.com/user-attachments/assets/9afce70d-7f86-4132-b1f6-29ebe18532f9" />
 
