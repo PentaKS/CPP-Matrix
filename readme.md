@@ -1,4 +1,4 @@
-----Greetings to you, it is my program that can deal with matrix operations----
+## Greetings to you, it is my program that can deal with matrix operations----
 mainly the operations include
 1. formation of a matrix via a SQmatrix class(currently limited to square matrices)
 2. assigning values to your matrix as rows
@@ -13,7 +13,6 @@ it also has some passive features like:
 
 to run the code use g++ matrix.cpp -o matric.exe
 
+# Image
+<img width="877" height="858" alt="image" src="https://github.com/user-attachments/assets/9afce70d-7f86-4132-b1f6-29ebe18532f9" />
 
-
-
-///////////// currently the program is completed from my side 
